@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 const Projects = () => {
   return (
-    <div className='projects'>
+    <div className='projects' id='projects'>
         <p>my projects()</p>
         <div className="project">
             <Link className='link' href="https://todolistprogram.netlify.app"><h6>Project 1</h6></Link>

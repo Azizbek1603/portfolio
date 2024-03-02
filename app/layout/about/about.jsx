@@ -48,11 +48,11 @@ const About = () => {
                             alt="Picture of the author"
                         />
                     </div>
-        
+
                 </div>
-            </div>          
+            </div>
         </div>
-            )
+    )
 }
 
-            export default About
+export default About

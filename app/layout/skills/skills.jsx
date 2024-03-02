@@ -1,6 +1,6 @@
 import React from 'react'
 import { IoLogoJavascript, IoLogoReact, IoLogoHtml5, IoLogoCss3, IoLogoSass } from "react-icons/io5";
-import { SiRedux, SiNextdotjs, SiBootstrap, SiTailwindcss, SiGithub } from "react-icons/si";
+import { SiRedux, SiNextdotjs, SiBootstrap, SiTailwindcss, SiGithub, SiTypescript } from "react-icons/si";
 
 const Skills = () => {
   return (
@@ -17,6 +17,7 @@ const Skills = () => {
             <SiBootstrap className='bootstrap' />
             <SiTailwindcss className='tailwind' />
             <SiGithub className='github' />
+            <SiTypescript className='typescript' />
         </div>
     </div>
   )
